@@ -1,26 +1,75 @@
-# Abhijeet Tiwari — Redesigned Portfolio
 
-This is a redesign inspired by the cinematic dark, futuristic visual style of the reference portfolio. It keeps Abhijeet's existing profile information, skills, education, project descriptions and contact links.
+# 👋 Hi, I'm Abhijeet Tiwari
 
-## Files
-- `index.html` — portfolio content
-- `style.css` — responsive styling, theme, cards and animations
-- `script.js` — intro screen, theme switch, typing text, mobile menu, reveal effects, stars and email form
-- `assets/` — place your existing CV PDF here as `Abhijeet-Tiwari-CV.pdf`; optionally add a portrait as `profile.jpg` (the current design uses an initials avatar)
+### Aspiring Software Engineer | Developer in Progress
 
-## Publish to your existing GitHub repository
-1. Download and extract this ZIP.
-2. Add your existing CV PDF into `assets/` and name it `Abhijeet-Tiwari-CV.pdf`.
-3. Open your repository: https://github.com/codewithaviiee08/Abhijeet-Tiwari-Portfolio
-4. Upload/replace `index.html`, `style.css`, `script.js`, and `README.md`; upload the `assets` folder too.
-5. Commit changes to the same branch currently used by GitHub Pages.
-6. Wait for GitHub Pages to redeploy, then refresh your portfolio.
+Welcome to my GitHub profile! I'm passionate about programming, software development, problem-solving, and building useful digital experiences.
 
-The contact form opens the visitor's email app; it does not send mail through a backend.
+🌐 **Live Portfolio:** [Visit My Portfolio](https://abhijeet-portfolio-main.netlify.app)
 
+---
 
-## Added portfolio items
-- C++ Elevizo verified assessment certificate preview: `assets/elevizo-cpp-certificate.jpg`
-- Cafe Website project repository: https://github.com/codewithaviiee08/cafe-website
+## 🚀 About Me
 
-The certificate image is displayed in the Learning Journey section and opens at full size when clicked.
+- 🎓 Diploma in Mechanical Engineering
+- 💻 Completed C and C++ programming fundamentals
+- 📚 Currently learning Java, Advanced Java, Python, HTML, CSS and JavaScript
+- 🌱 Improving my programming logic and development skills
+- 🎯 Working towards becoming a skilled Software Developer
+
+## 🛠️ Tech Stack
+
+- C
+- C++
+- Java
+- Python
+- HTML5
+- CSS3
+- JavaScript
+- Git & GitHub
+
+## 📂 My Projects
+
+### 1. Personal Developer Portfolio
+
+A responsive personal portfolio showcasing my introduction, skills, education, certifications, projects and contact information.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Live Demo:** [View Portfolio](https://abhijeet-portfolio-main.netlify.app)
+- **Source Code:** [GitHub Repository](https://github.com/codewithaviiee08/Abhijeet-Portfolio-Main)
+
+### 2. Cafe Website ☕
+
+A cafe website project built using frontend web technologies.
+
+- **Technologies:** HTML, CSS, JavaScript
+- **Source Code:** [View Cafe Website](https://github.com/codewithaviiee08/cafe-website)
+
+## 🎓 Education & Certifications
+
+- Diploma in Mechanical Engineering
+- C Programming Certification
+- C++ – Elevizo Verified Assessment
+- Advanced Diploma in Software Programming – Learning
+
+## 📈 My Current Goals
+
+- Strengthen programming fundamentals.
+- Improve problem-solving skills.
+- Build practical web development projects.
+- Learn Data Structures and Algorithms.
+- Explore Full Stack Development.
+
+## 📫 Connect With Me
+
+- 📧 Email: abhijeettiwari955@gmail.com
+- 💻 GitHub: [@codewithaviiee08](https://github.com/codewithaviiee08)
+- 🌐 Portfolio: [abhijeet-portfolio-main.netlify.app](https://abhijeet-portfolio-main.netlify.app)
+
+---
+
+### ⭐ Thanks for Visiting My Profile!
+
+**Code • Learn • Build • Repeat**
+
+Let's connect and grow together! 🤝
